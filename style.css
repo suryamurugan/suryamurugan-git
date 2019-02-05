@@ -1,0 +1,11 @@
+#nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    font-family: "Open Sans";
+    font-size: 18px;
+  }
+
+  #nav {
+    flex-basis: auto;
+  }
