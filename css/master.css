@@ -66,7 +66,7 @@
   
   /* links */
   a {
-    color:green;
+    color:white;
   }
   
   /* buttons */
@@ -105,7 +105,7 @@
   .btn.highlight {
     border-color: rgba(255, 255, 255, 0.4);
     color: #fff;
-    background: green;
+    background: white;
   }
   
   .btn.outline {
@@ -223,7 +223,7 @@
   }
   
   nav.main .brand h1 {
-    color:green;
+    color:white;
   }
   
   nav.main .list {
