@@ -104,8 +104,8 @@
   
   .btn.highlight {
     border-color: rgba(255, 255, 255, 0.4);
-    color: #fff;
-    background: white;
+    /* color: #fff; */
+    /* background: white; */
   }
   
   .btn.outline {
